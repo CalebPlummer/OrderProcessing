@@ -6,7 +6,6 @@
 package orderprocessinglab;
 
 import java.io.*;
-import java.util.regex.Pattern;
 
 /**
  *
